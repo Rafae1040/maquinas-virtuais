@@ -1,4 +1,4 @@
-# 💻 Laboratório: Criação e Configuração de Máquinas Virtuais no Microsoft Azure
+# 💻 Criação e Configuração de Máquinas Virtuais no Microsoft Azure
 
 Este repositório é o resultado de um laboratório prático realizado na plataforma **Microsoft Azure**, com o objetivo de aprender, praticar e documentar o processo de criação e configuração de **máquinas virtuais (VMs)**.
 
